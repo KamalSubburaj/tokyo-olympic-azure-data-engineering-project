@@ -1,0 +1,9 @@
+{
+	"name": "Tokyo-Olympic-2021",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "369c1686-a070-4449-b261-7494a65d37f0",
+		"tenantId": "0a0c1576-9a2b-4f82-9bb6-fe3889203a06"
+	}
+}
